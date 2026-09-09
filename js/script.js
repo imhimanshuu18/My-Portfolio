@@ -14,14 +14,14 @@ const projects = [
   },
 
   {
-    title:"Ixxhu",
-    slug:"ixxhu",
-    image:"images/projects/ixxhu.png",
-    link:"https://www.behance.net/gallery/255047615/Ixxhu-Creative-Agency-Website",
-    category:"Web · Creative Agency",
-    filter:"Website UI",
+    title:"Anand Waterproofing",
+    slug:"AW",
+    image:"images/projects/aw.png",
+    link:"https://anandwaterproofingcowebsite.vercel.app",
+    category:"Web · Waterproofing",
+    filter:"Web Development",
     description:"A modern website for a creative agency to showcase its services, portfolio and brand identity — user-centered layouts with a strong focus on usability and responsive design.",
-    tags:["UI/UX","Figma","Photoshop"],
+    tags:["UI/UX","Figma","Html/css/js"],
     gradient:"g2"
   },
 
@@ -36,16 +36,16 @@ const projects = [
     tags:["Web design","Figma","User experience "],
     gradient:"g3"
   },
-
+  
   {
-    title:"Analytics Dashboard",
-    slug:"analytics-dashboard",
-    image:"images/projects/analytics-dashboard.jpg",
-    link:"https://www.behance.net/",
-    category:"Web · Dashboard",
-    filter:"Dashboard UI",
-    description:"A data-dense analytics dashboard designed in Figma — clean charts, clear hierarchy and an organised layout that makes complex data easy to read.",
-    tags:["Dashboard","Figma","Data Viz"],
+    title:"Ixxhu",
+    slug:"ixxhu",
+    image:"images/projects/ixxhu.png",
+    link:"https://www.behance.net/gallery/255047615/Ixxhu-Creative-Agency-Website",
+    category:"Web · Creative Agency",
+    filter:"Website UI",
+    description:"A modern website for a creative agency to showcase its services, portfolio and brand identity — user-centered layouts with a strong focus on usability and responsive design.",
+    tags:["UI/UX","Figma","Photoshop"],
     gradient:"g4"
   },
 
