@@ -20,7 +20,7 @@ const projects = [
     link:"https://anandwaterproofingcowebsite.vercel.app",
     category:"Web · Waterproofing",
     filter:"Web Development",
-    description:"A modern website for a creative agency to showcase its services, portfolio and brand identity — user-centered layouts with a strong focus on usability and responsive design.",
+    description:"A professional website design for Anand Waterproofing Co., showcasing their waterproofing and civil services through a clean, trustworthy, and user-friendly digital experience.",
     tags:["UI/UX","Figma","Html/css/js"],
     gradient:"g2"
   },
